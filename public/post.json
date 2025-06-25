@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "Title": "Looking for a roommate in NYC",
+        "Location": "New York, NY",
+        "RentAmount": 1200,
+        "RoomType": "Shared",
+        "LifestylePreferences": {
+            "Pets": "No pets",
+            "Smoking": "Non-smoker",
+            "NightOwl": "Yes"
+        },
+        "Description": "Spacious apartment in Manhattan. Looking for a clean and friendly roommate who enjoys a relaxed living environment.",
+        "ContactInfo": "+1 234 567 890",
+        "Availability": "Available"
+    },
+    {
+        "id": 2,
+        "Title": "Cozy studio near Central Park",
+        "Location": "New York, NY",
+        "RentAmount": 1400,
+        "RoomType": "Single",
+        "LifestylePreferences": {
+            "Pets": "Dog-friendly",
+            "Smoking": "Non-smoker",
+            "NightOwl": "No"
+        },
+        "Description": "Studio apartment close to Central Park. Seeking a responsible roommate.",
+        "ContactInfo": "+1 987 654 321",
+        "Availability": "Available"
+    },
+    {
+        "id": 3,
+        "Title": "Downtown LA Apartment",
+        "Location": "Los Angeles, CA",
+        "RentAmount": 1100,
+        "RoomType": "Shared",
+        "LifestylePreferences": {
+            "Pets": "No pets",
+            "Smoking": "Occasional smoker",
+            "NightOwl": "Yes"
+        },
+        "Description": "Friendly and lively environment near downtown.",
+        "ContactInfo": "+1 456 789 012",
+        "Availability": "Not Available"
+    },
+    {
+        "id": 4,
+        "Title": "Seeking roommate for a quiet space",
+        "Location": "San Francisco, CA",
+        "RentAmount": 1600,
+        "RoomType": "Single",
+        "LifestylePreferences": {
+            "Pets": "Cat-friendly",
+            "Smoking": "Non-smoker",
+            "NightOwl": "No"
+        },
+        "Description": "Peaceful and clean living space near downtown.",
+        "ContactInfo": "+1 321 654 987",
+        "Availability": "Available"
+    },
+    {
+        "id": 5,
+        "Title": "Affordable apartment in Miami",
+        "Location": "Miami, FL",
+        "RentAmount": 900,
+        "RoomType": "Shared",
+        "LifestylePreferences": {
+            "Pets": "No pets",
+            "Smoking": "Non-smoker",
+            "NightOwl": "Yes"
+        },
+        "Description": "Looking for a roommate to share a spacious apartment near the beach.",
+        "ContactInfo": "+1 678 901 234",
+        "Availability": "Available"
+    },
+    {
+        "id": 6,
+        "Title": "Luxury condo in Chicago",
+        "Location": "Chicago, IL",
+        "RentAmount": 1800,
+        "RoomType": "Single",
+        "LifestylePreferences": {
+            "Pets": "Dog-friendly",
+            "Smoking": "Non-smoker",
+            "NightOwl": "No"
+        },
+        "Description": "High-rise condo with excellent amenities. Seeking a tidy roommate.",
+        "ContactInfo": "+1 890 123 456",
+        "Availability": "Not Available"
+    },
+    {
+        "id": 7,
+        "Title": "Roommate needed in Seattle",
+        "Location": "Seattle, WA",
+        "RentAmount": 1300,
+        "RoomType": "Shared",
+        "LifestylePreferences": {
+            "Pets": "Cat-friendly",
+            "Smoking": "Non-smoker",
+            "NightOwl": "Yes"
+        },
+        "Description": "A vibrant living space near downtown Seattle.",
+        "ContactInfo": "+1 543 210 678",
+        "Availability": "Available"
+    },
+    {
+        "id": 8,
+        "Title": "College housing near UT Austin",
+        "Location": "Austin, TX",
+        "RentAmount": 850,
+        "RoomType": "Shared",
+        "LifestylePreferences": {
+            "Pets": "No pets",
+            "Smoking": "Non-smoker",
+            "NightOwl": "Yes"
+        },
+        "Description": "Looking for a student roommate to share space near UT Austin.",
+        "ContactInfo": "+1 765 432 109",
+        "Availability": "Available"
+    },
+    {
+        "id": 9,
+        "Title": "Quiet home in Boston",
+        "Location": "Boston, MA",
+        "RentAmount": 1500,
+        "RoomType": "Single",
+        "LifestylePreferences": {
+            "Pets": "Dog-friendly",
+            "Smoking": "Non-smoker",
+            "NightOwl": "No"
+        },
+        "Description": "Seeking a peaceful roommate to share a townhouse.",
+        "ContactInfo": "+1 876 543 210",
+        "Availability": "Not Available"
+    },
+    {
+        "id": 10,
+        "Title": "Affordable housing in Denver",
+        "Location": "Denver, CO",
+        "RentAmount": 950,
+        "RoomType": "Shared",
+        "LifestylePreferences": {
+            "Pets": "No pets",
+            "Smoking": "Non-smoker",
+            "NightOwl": "Yes"
+        },
+        "Description": "Looking for a responsible roommate.",
+        "ContactInfo": "+1 098 765 432",
+        "Availability": "Available"
+    }
+]
